@@ -1,0 +1,15 @@
+C:\Users\Viktor\source\repos\FiziQuizz\bin\Debug\net8.0\FiziQuizz.exe
+C:\Users\Viktor\source\repos\FiziQuizz\bin\Debug\net8.0\kerdesek.txt
+C:\Users\Viktor\source\repos\FiziQuizz\bin\Debug\net8.0\FiziQuizz.deps.json
+C:\Users\Viktor\source\repos\FiziQuizz\bin\Debug\net8.0\FiziQuizz.runtimeconfig.json
+C:\Users\Viktor\source\repos\FiziQuizz\bin\Debug\net8.0\FiziQuizz.dll
+C:\Users\Viktor\source\repos\FiziQuizz\bin\Debug\net8.0\FiziQuizz.pdb
+C:\Users\Viktor\source\repos\FiziQuizz\obj\Debug\net8.0\FiziQuizz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\FiziQuizz\obj\Debug\net8.0\FiziQuizz.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\FiziQuizz\obj\Debug\net8.0\FiziQuizz.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\FiziQuizz\obj\Debug\net8.0\FiziQuizz.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\FiziQuizz\obj\Debug\net8.0\FiziQuizz.dll
+C:\Users\Viktor\source\repos\FiziQuizz\obj\Debug\net8.0\refint\FiziQuizz.dll
+C:\Users\Viktor\source\repos\FiziQuizz\obj\Debug\net8.0\FiziQuizz.pdb
+C:\Users\Viktor\source\repos\FiziQuizz\obj\Debug\net8.0\FiziQuizz.genruntimeconfig.cache
+C:\Users\Viktor\source\repos\FiziQuizz\obj\Debug\net8.0\ref\FiziQuizz.dll

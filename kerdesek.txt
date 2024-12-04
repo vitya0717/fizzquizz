@@ -1,0 +1,311 @@
+1. Melyik nem Faraday munkásságának a része?
+a) az elektrolízis törvényei
+b) mágneses erővonalak bevezetése
+->c) a galvánelemek elmélete
+d) az indukció törvénye
+
+2. Rutherford eredménye szerint az atommag térfogata az atom térfogatának kb.
+a) 10 %-a
+b) 1-2 %-a
+c) 0,01-0,1 %-a
+->d) kevesebb, mint egymilliomod része
+
+3. Az alábbiak közül melyik nem elemi részecske a standard modell szerint?
+a) elektron
+->b) proton
+c) neutrínó
+d) foton
+
+4. Az alábbiak közül melyik tudományterületen nem osztanak Nobel-díjat?
+a) Fizika
+->b) Matematika
+c) Kémia
+d) Irodalom
+
+5. Válasszuk ki azt a fizikust, aki nem kémiai Nobel-díjat kapott!
+a) Rutherford
+->b) Michelson
+c) Frederic Joliot-Curie
+d) Hevesi György
+
+6. Melyik évszázadban volt az elektromos és mágneses jelenségek egyesítése?
+a) a XVII. században
+b) a XVIII. században
+->c) a XIX. században
+d) a XX. Században
+
+7. Melyik felismerés nem Faradaytől származik?
+a) az indukált körfeszültség arányos a hurkot átdöfő mágneses indukcióvonalak számának változási gyorsaságával
+b) a mágneses mezőben mozgó vezetőben feszültség indukálódik
+->c) nemcsak áramok, hanem változó elektromos tér is kelt mágneses teret
+d) vannak diamágneses és paramágneses anyagok
+
+8. Melyik nem Maxwell munkásságának a része?
+a) Faraday törvényeinek matematikai formába öntése
+b) az eltolási áram bevezetése
+->c) az elektrosztatika törvényeinek felírása
+d) az elektromágneses hullámok elméleti levezetése
+
+9. Melyik az a jelenség, amelyet nem tudott megmagyarázni a hőanyag elmélet?
+a) a hősugárzás
+b) a latens hő
+->c) a súrlódási hő
+d) a hőáramlás
+
+10. Az alábbiak közül ki volt a kinetikus hőelmélet feltétlen híve?
+a) Furier
+b) Carnot
+->c) Rumford gróf
+d) Celsius
+
+11. Válasszuk ki a hamis állítást!
+a) A rugalmatlan ütközés során eltűnő mechanikai energia hővé alakul.
+b) A hő az anyagot alkotó részecskék mozgási energiája.
+->c) A hő megmaradó mennyiség.
+d) Zárt rendszer energiája állandó.
+
+12. Mit mond ki a hőtan I. főtétele?
+a) a hőmérséklet különbségek mindig kiegyenlítődni igyekszenek
+->b) a belső energia a környezettől felvett hőmennyiség és a környezet által végzett munka összegével változik
+c) a hőenergia nem alakítható át teljes egészében mechanikai munkává
+d) a gázrészecskék minden szabadsági fokára átlagosan azonos energia jut
+
+13. Kik voltak az energiamegmaradás törvényének legfontosabb kidolgozói?
+a) Watt és Carnot
+b) Maxwell és Boltzmann
+->c) Mayer és Joule
+d) Laplace és Gauss
+
+14. Melyik állítás nem a hőtan II. főtételét fejezi ki?
+a) a hőmérséklet különbségek mindig kiegyenlítődni igyekszenek
+->b) a belső energia a környezettől felvett hőmennyiség és a környezet által végzett munka összegével változik
+c) a hőenergia nem alakítható át teljes egészében mechanikai munkává
+d) zárt rendszer entrópiája csak növekedhet
+
+15. Melyik fizikus neve nem kapcsolható a hőtan II. főtételéhez?
+a) Clausius
+->b) Watt
+c) Kelvin
+d) Boltzmann
+
+16. A Millikan kísérletben
+a) alfa sugarak eltérülését
+->b) töltött olajcseppek mozgását
+c) katódsugarak elnyelődését
+d) gázok nyomásának hőmérsékletfüggését vizsgálták.
+
+17. Millikan kísérletének végkövetkeztetése az hogy,
+a) az elektronnak negatív töltése van
+->b) létezik az elemi töltés
+c) az atomban elektronok vannak
+d) az atom közepén atommag van
+
+18. Rutherford eredménye szerint az atommag átmérője az atom átmérőjének kb.
+a) 10 %-a
+b) 1-2 %-a
+->c) 0,01-0,1 %-a
+d) kb. egymilliomod része
+
+19. Melyik nem köthető Einsteinhez?
+->a) elektromágneses fényelmélet
+b) relativitáselmélet
+c) fényelektromos jelenség magyarázata
+d) tömeg-energia ekvivalencia
+
+20. Melyik felfedezéséért kapta Einstein hivatalosan a Nobel-díjat?
+a) speciális relativitáselmélet
+b) általános relativitáselmélet
+->c) fényelektromos jelenség magyarázata
+d) tömeg-energia ekvivalencia
+
+21. Mit állapított meg Michelson, az első Nobel díjas amerikai fizikus?
+a) az atom közepén atommag van
+->b) a fény sebessége minden inerciarendszerben ugyanannyinak adódik
+c) a tömeg sebességfüggő
+d) a fény fotonokból áll
+
+22. Válasszuk ki a speciális relativitáselmélet szerinti hibás állítást!
+->a) az éterben nyugvó inerciarendszer a kitüntetett rendszer
+b) a fény sebessége minden inerciarendszerben mindig ugyanannyinak adódik
+c) minden inerciarendszer egyenértékű minden fizikai jelenség szempontjából
+d) minden inerciarendszerben máshogy telik az idő
+
+24. A katódsugarak
+a) ultraibolyasugarak
+->b) elektronok
+c) pozitív ionok
+d) röntgensugarak
+
+25. Az atommag felfedezésére vezető Rutherford kísérletben
+a) katódsugarak eltérülését
+->b) alfa részecskék eltérülését
+c) röntgen sugarak eltérülését
+d) elektromágneses hullámok eltérülését vizsgálták
+
+26. Melyik állítás nem igaz a relativisztikus dinamika szerint?
+a) A tömeg sebességfüggő
+b) Az erő az egységnyi idő alatti lendületváltozás
+->c) Az erő a tömeg és a gyorsulás szorzata
+d) A test tömege és energiája arányos egymással
+
+27. Mi Eötvös Loránd legnagyobb tudományos eredménye?
+a) A katódsugarak helyes értelmezése.
+b) A speciális relativitáselmélet.
+->c) A tehetetlen és súlyos tömeg azonosságának megállapítása.
+d) A gravitációs vöröseltolódás felfedezése.
+
+28. Ki nem vett részt a speciális relativitáselmélet megalkotásában?
+a) Lorentz
+->b) Rutherford
+c) Poincare
+d) Einstein
+
+29. Milyen jelenség vizsgálata során vezette be Planck a hatáskvantumot?
+->a) hőmérsékleti sugárzás
+b) fényelektromos jelenség
+c) a H-atom leírása
+d) radioaktivitás
+
+30. Az alábbiak közül melyik állítás nem igaz a fényelektromos jelenségre?
+a) Fény hatására elektronok lépnek ki
+->b) Az elektronok energiája a fény intenzitásától függ
+c) A határfrekvencia alatt nincs elektronkilépés
+d) Kísérletileg Lénárd Fülöp vizsgálta
+
+31. Állítsuk a felfedezésük sorrendjébe az alábbi részecskéket, részeket!
+a) elektron, atommag, foton
+b) foton, elektron, atommag
+->c) elektron, foton, atommag
+d) atommag, elektron, foton
+
+33. Az alábbiak közül melyik állítás nem igaz a Bohr-elméletre?
+a) Az atomban az elektronok csak meghatározott állapotokbantartózkodhatnak
+b) Az elektronok perdülete az atomban kvantált
+->c) Sugárzás kibocsájtásakor az elektron magasabb energiaszintre jut
+d) Csak a H-atomra alkalmazható
+
+34. Melyik állítás nem igaz Heisenbergre?
+a) Elméletében csak mérhető mennyiségek szerepelnek
+->b) Kidolgozza a hullámmechanikát
+c) Felírja a határozatlansági relációt
+d) A német atombomba programban dolgozik
+
+35. Melyik állítás nem igaz Diracra?
+a) Egyesíti a mátrixmechanikát és a hullámmechanikát
+b) Felírja a relativisztikus hullámegyenletet.
+c) Megjósolja a pozitron létezését.
+->d) Bevezeti a hatáskvantumot
+
+36. Melyik állítás nem igaz Neumann Jánosra?
+a) Kidolgozza a kvantummechanika matematikai alapjait.
+b) Részt vesz az amerikai atombomba programban.
+c) Foglalkozik a számítógépek elméletével.
+->d) Kidolgozza a kizárási elvet.
+
+38. Ki nem fogadta el a kvantummechanika koppenhágai értelmezését?
+->a) Einstein
+b) Bohr
+c) Heisenberg
+d) Born
+
+39. Ki dolgozta ki az anyag hullámtermészetének az elméletét?
+a) Einstein
+b) Bohr
+->c) de Broglie
+d) Heisenberg
+
+40. Az alábbiak közül ki kapott fizikai és kémiai Nobel-díjat is?
+->a) Marie Curie
+b) Pierre Curie
+c) Frederic Joliot-Curie
+d) Irene Joliot-Curie
+
+41. Melyik felfedezés nem a Curie család tagjaitól származik?
+a) a polónium felfedezése
+b) a rádium felfedezése
+->c) az alfa sugárzás felfedezése
+d) a mesterséges radioaktivitás felfedezése
+
+42. Válasszuk ki a hamis állítást!
+->a) a polóniumot Lengyelországban fedezték fel
+b) a rádiumot a Curie házaspár fedezte fel
+c) az alfa és béta sugárzást Rutherford fedezte fel
+d) az alfa bomlás elméletét Gamow alkotta meg
+
+43. Válasszuk ki az igaz állítást! Az alfa bomlás során...
+a) az atommagból elektron távozik
+b) a rendszám kettővel nő
+->c) hélium keletkezik
+d) nincs elemátalakulás
+
+44. Válasszuk ki a hamis állítást!
+a) a proton és a neutron tömege csak 1-2 ezrelékkel tér el
+b) a proton és az elektron töltésének nagysága pontosan megegyezik
+c) az atommagok tömege kisebb, mint a benne lévő nukleonok össztömege
+->d) az egy nukleonra jutó kötési energia arányos a rendszámmal
+
+46. Állítsuk a kölcsönhatásokat erősségi sorrendbe! Kezdjük a legerősebbel!
+->a) erős, elektromágneses, gyenge, gravitációs
+b) erős, elektromágneses, gravitációs, gyenge
+c) erős, gravitációs, elektromágneses, gyenge
+d) erős, gyenge, gravitációs, elektromágneses
+
+47. Melyik kölcsönhatásban nem vesz részt az elektron?
+->a) erős
+b) elektromágneses
+c) gyenge
+d) gravitációs
+
+48. Az alábbiak közül melyik nem elemi részecske a standard modell szerint
+a) elektron
+->b) proton
+c) neutrínó
+d) foton
+
+51. Ki nem kapott Nobel-díjat az alábbi magyar fizikusok közül?
+a) Lénárd Fülöp
+b) Wigner Jenő
+c) Gábor Dénes
+->d) Szilárd Leó
+
+52. Az alábbi fizikusok közül ki az aki a Nobel-díjat nem fizikából kapta?
+a) Röntgen
+b) Becquerel
+->c) Rutherford
+d) Planck
+
+53. Alfred Nobel legfontosabb találmánya a
+a) puskapor
+b) nitroglicerin
+->c) dinamit
+d) atombomba
+
+54. Mitől függ a hőerőgépek hatásfokának felső korlátja Carnot szerint?
+a) a hőtartályok abszolút hőmérsékleteitől
+b) a kazán méretétől
+->c) a felső korlát mindig 100%
+d) a gőzgép típusától
+
+55. Joule törvénye szerint
+a) az áram arányos a feszültséggel
+->b) a teljesítmény az áram és a feszültség szorzata
+c) a hőerőgépek hatásfoka nem lehet 100%
+d) létezik elemi töltés
+
+56. Melyik városban kezdte el a középiskolai tanulmányait Öveges József?
+a) Budapesten
+b) Debrecenben
+c) Miskolcon
+->d) Győrben
+
+57. Mit mond ki az ekvipartíció törvénye?
+a) a hőmérséklet különbségek mindig kiegyenlítődni igyekszenek
+b) a belső energia a környezettől felvett hőmennyiség és a környezet által végzett munka összegével változik
+c) a hőenergia nem alakítható át teljes egészében mechanikai munkává
+->d) a gázrészecskék minden szabadsági fokára átlagosan azonos energia jut
+
+58. A gázok azonos nyomás, térfogat és hőmérséklet mellett azonos számú részecskét tartalmaznak. Mi a neve ennek a törvénynek?
+a) a hőtan III. főtétele
+b) ekvipartíció törvénye
+->c) Avogadro törvény
+d) Boyle-Mariotte-törvény
